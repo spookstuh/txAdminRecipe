@@ -126,7 +126,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-customs
     ref: main
-    src: https://github.com/qbcore-framework/qb-customs
+    src: https://github.com/spookstuh/qb-customs
 
   - action: download_github
     dest: ./resources/[qb]/qb-vehiclesales
@@ -141,12 +141,12 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-houserobbery
     ref: main
-    src: https://github.com/qbcore-framework/qb-houserobbery
+    src: https://github.com/spookstuh/qb-houserobbery
 
   - action: download_github
     dest: ./resources/[qb]/qb-coke
     ref: main
-    src: https://github.com/qbcore-framework/qb-coke
+    src: https://github.com/spookstuh/qb-coke
     
   - action: download_github
     dest: ./resources/[qb]/qb-prison
@@ -191,7 +191,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-inventory
     ref: main
-    src: https://github.com/qbcore-framework/qb-inventory
+    src: https://github.com/spookstuh/qb-inventory
 
   - action: download_github
     dest: ./resources/[qb]/qb-houses
@@ -294,7 +294,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-storerobbery
     ref: main
-    src: https://github.com/qbcore-framework/qb-storerobbery
+    src: https://github.com/spookstuh/qb-storerobbery
 
   - action: download_github
     dest: ./resources/[qb]/qb-spawn
@@ -309,7 +309,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-smallresources
     ref: main
-    src: https://github.com/qbcore-framework/qb-smallresources
+    src: https://github.com/spookstuh/qb-smallresources
 
   - action: download_github
     dest: ./resources/[qb]/qb-recyclejob
@@ -349,7 +349,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-oxyrun
     ref: main
-    src: https://github.com/qbcore-framework/qb-oxyrun
+    src: https://github.com/spookstuh/qb-oxyrun
 
   - action: download_github
     dest: ./resources/[qb]/qb-carwash
@@ -427,7 +427,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-clothing
     ref: main
-    src: https://github.com/qbcore-framework/qb-clothing
+    src: https://github.com/spookstuh/qb-clothing
 
   - action: download_github
     dest: ./resources/[qb]/qb-hotdogjob
@@ -437,12 +437,12 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-doorlock
     ref: main
-    src: https://github.com/qbcore-framework/qb-doorlock
+    src: https://github.com/spookstuh/qb-doorlock
 
   - action: download_github
     dest: ./resources/[qb]/qb-crafting
     ref: main
-    src: https://github.com/qbcore-framework/qb-crafting
+    src: https://github.com/spookstuh/qb-crafting
 
   - action: download_github
     dest: ./resources/[qb]/qb-garbagejob
@@ -452,7 +452,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-drugs
     ref: main
-    src: https://github.com/qbcore-framework/qb-drugs
+    src: https://github.com/spookstuh/qb-drugs
 
   - action: download_github
     dest: ./resources/[qb]/qb-builderjob
@@ -462,7 +462,7 @@ tasks:
   - action: download_github
     dest: ./resources/[qb]/qb-shops
     ref: main
-    src: https://github.com/qbcore-framework/qb-shops
+    src: https://github.com/spookstuh/qb-shops
 
   - action: download_github
     dest: ./resources/[qb]/qb-lockpick
