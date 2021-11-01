@@ -372,11 +372,6 @@ tasks:
     src: https://github.com/qbcore-framework/qb-newsjob
 
   - action: download_github
-    dest: ./resources/[qb]/qb-methlab
-    ref: main
-    src: https://github.com/qbcore-framework/qb-methlab
-
-  - action: download_github
     dest: ./resources/[qb]/qb-jewelery
     ref: main
     src: https://github.com/qbcore-framework/qb-jewelery
